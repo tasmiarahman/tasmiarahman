@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tasmia! <br/><a href="https://github.com/tasmiarahman">Cybersecurity Stdent</a>
+<h1>Hi, I'm Tasmia! <br/><a href="https://github.com/tasmiarahman">Cybersecurity Student</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
